@@ -1,7 +1,7 @@
 
 
 # Problem to solve:
-when use CamScanner to scan an handwriting image, the background looks dirty, here is a fast solution to make the picture clean and clear.
+when use CamScanner to scan an handwriting image, the background looks dirty, here is a fast solution to clean this picture.
 
 # DEMO pictures:
 input(original picture): hand_written_image.jpg
