@@ -21,6 +21,8 @@ Enhance handwriting image scanned by CamScanner
 
 
 
+![image](https://user-images.githubusercontent.com/57114278/112405336-118dca00-8ce0-11eb-9d79-a4fe36806fda.png)
 
+![image](https://user-images.githubusercontent.com/57114278/112405347-1783ab00-8ce0-11eb-8342-90d92572c7cc.png)
 
 
