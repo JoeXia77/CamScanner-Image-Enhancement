@@ -18,6 +18,9 @@ white_paper.py
 # Function: 
 Enhance handwriting image scanned by CamScanner
 
+# Environment
+    cv2
+    numpy
 
 
 # input image
