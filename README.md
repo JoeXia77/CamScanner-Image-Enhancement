@@ -18,6 +18,9 @@ white_paper.py
 # Function: 
 Enhance handwriting image scanned by CamScanner
 
+# Time consumption: 
+Traverse each pixel once, time complexity is O(N), where N is the total pixel number 
+
 # Environment
     cv2
     numpy
